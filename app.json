@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Calculdora de vectores",
+    "slug": "Enamoramiento",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fisicaIE.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fisicaSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fisicaIE.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.Newton.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3711b901-be16-4b9c-a38a-614b43f15a44"
+      }
+    }
+  }
+}
